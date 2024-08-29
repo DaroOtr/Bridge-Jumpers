@@ -1,0 +1,11 @@
+lastUpgrade=01101
+proj.pluginVersion=0.11.01
+proj.AppId=402467556444
+and.BundleId=com.Otranto2023.BridgeJumpers
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e402467556444%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Otranto2023.BridgeJumpers%3c%2fstring%3e%0d%0a++%3c%21--achievement+First+Time+Jumper--%3e%0d%0a++%3cstring+name%3d%22achievement_first_time_jumper%22+translatable%3d%22false%22%3eCgkI3Ji-p9sLEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+The+Mad+King--%3e%0d%0a++%3cstring+name%3d%22achievement_the_mad_king%22+translatable%3d%22false%22%3eCgkI3Ji-p9sLEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Let+The+Magic+Begin--%3e%0d%0a++%3cstring+name%3d%22achievement_let_the_magic_begin%22+translatable%3d%22false%22%3eCgkI3Ji-p9sLEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Unite+The+Kingdom--%3e%0d%0a++%3cstring+name%3d%22achievement_unite_the_kingdom%22+translatable%3d%22false%22%3eCgkI3Ji-p9sLEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Axe+To+Meet+You--%3e%0d%0a++%3cstring+name%3d%22achievement_axe_to_meet_you%22+translatable%3d%22false%22%3eCgkI3Ji-p9sLEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=402467556444-2cmt69801pubkhr5c7836tafhirtmc4r.apps.googleusercontent.com
+android.SetupDone=true
+App.NearbdServiceId=com.Otranto2023.BridgeJumpers
+android.NearbySetupDone=true
